@@ -7,8 +7,10 @@ com\pmt\servlet\LogoutServlet.class
 com\pmt\dao\ProjectDAO.class
 com\pmt\servlet\ProjectServlet.class
 com\pmt\model\User.class
+com\pmt\servlet\ProjectsPageServlet.class
 com\pmt\dao\TaskDAO.class
 com\pmt\dao\UserDAO.class
 com\pmt\servlet\DashboardServlet.class
 com\pmt\servlet\RegisterServlet.class
+com\pmt\servlet\TasksPageServlet.class
 com\pmt\servlet\LoginServlet.class
